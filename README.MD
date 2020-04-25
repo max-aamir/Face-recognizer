@@ -1,0 +1,1 @@
+This project is made to live using the opencv library of python3. Using the HarrCasecadeFaceRecognizer the humans in front of the camera are identified. The identification is based on the past event of recording the face of that person along with a name and unique identifier.
